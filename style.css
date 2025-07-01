@@ -22,3 +22,13 @@ body {
 footer {
   font-size: 0.9rem;
 }
+
+.navbar .nav-link {
+  font-weight: bold;
+}
+
+section.texto-intro {
+  text-align: center;
+  font-size: 1.25rem;
+  line-height: 1.8;
+}
